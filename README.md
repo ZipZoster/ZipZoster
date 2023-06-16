@@ -5,3 +5,5 @@
     * ☕ Java
     * 📁 SQL
 - 🐧 Sim, eu uso Linux
+    * Fedora 38
+       * Interface: Gnome 44    
