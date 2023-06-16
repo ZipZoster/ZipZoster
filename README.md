@@ -1,9 +1,7 @@
-### Hello, world! 
+### System.out.print("Olá mundo!");
 
-- 📍🗺️ Brazil
-- 📚 I'm currently studing:
-    * 🐍 Python
-    * 📁 SQL e PL/SQL
-- 💬 I speak:
-    * Portuguese (native)
-    * English (Intermediate/advanced)
+- 📍🗺️ Brasil
+- 📚 Venha estudar programação comigo:
+    * ☕ Java
+    * 📁 SQL
+- 🐧 Sim, eu uso Linux
