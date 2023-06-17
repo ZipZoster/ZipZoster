@@ -6,4 +6,6 @@
     * 📁 SQL
 - 🐧 Sim, eu uso Linux
     * Fedora 38
-       * Interface: Gnome 44    
+       * Interface: Gnome 44
+- 👤 Meu perfil:
+    * https://github.com/SamCouto
